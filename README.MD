@@ -15,3 +15,7 @@
 * VPC peering connection between the created VPC and the default VPC
 * Route from the public route table to the default VPC
 * Route from the default VPC's main route table to the created VPC
+
+# Inputs
+* vpc_cidr - (Required). User must supply the CIDR for VPC.
+* project_name - (Required). User must supply the project nae.
