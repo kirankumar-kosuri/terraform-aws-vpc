@@ -1,4 +1,7 @@
-# Resources Created
+# Terraform Aws Vpc
+
+This module creates the following resources
+
 * VPC
 * Internet Gateway (IGW)
 * 2 public subnets in us-east-1a and us-east-1b Availability Zones
